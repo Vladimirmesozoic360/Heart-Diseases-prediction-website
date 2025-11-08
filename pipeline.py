@@ -5,7 +5,7 @@ import numpy as np
 class InterFacePipeline:
     def __init__(self):
         
-        self.model = jb.load(r'C:\I will prepare my self to destroy the world\Programming\python program\MY Projects\Classification Projects\Heart Diseases\models\LRv1.pkl')
+        self.model = jb.load(r'models\LRv1.pkl')
     
     def run(self, input_list):
         input_array = np.asarray(input_list)
